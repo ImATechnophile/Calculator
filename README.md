@@ -1,6 +1,6 @@
 # Simple calculator(Java):
-* Simple calculator to revise all the simple topics of Java.
-* This simple calculator performs basic addition, subtraction, multiplication, and division.
+ Simple calculator to revise all the simple topics of Java.
+ This simple calculator performs basic addition, subtraction, multiplication, and division.
 
 #User's input:
 The user can able to give any input (positive as well as negative) for addition, subtraction, multiplication, and division.
