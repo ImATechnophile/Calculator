@@ -15,7 +15,7 @@ A beginner can easily grasp the flow of this program(java calculator) by looking
 
 ## Authors
 
-* **Saravana Prakash** - *Initial work* - [Projects in python](https://bitbucket.org/ImATechnophile95/)
+* **Saravana Prakash** - *Initial work* - [Projects in python](https://bitbucket.org/ImATechnophile-Personal/)
 * **Linkedin** - *Saravana Prakash* - [About myself](https://www.linkedin.com/in/saravana-prakash-j-116035124/)
 
 
